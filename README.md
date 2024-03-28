@@ -19,7 +19,7 @@ In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 step-by-st
    conda activate claude-autogen
    ```
 
-3. **Install AutoGenStudio**:
+3. **Install PyAutogen**:
    ```
    pip install pyautogen
    ```
