@@ -72,3 +72,13 @@ In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 step-by-st
    - Save the configuration
 
 After completing these steps, you have successfully set up Claude 3 Haiku in AutoGen 2 and can now use it now.
+
+## Anthropic Rate Limits
+
+Please note that when using the Claude-3-Haiku model, you may encounter rate limits on the Anthropic side. If you receive the error code 429, it means you have reached the rate limits.
+
+These limits can be increased with the first payment and after waiting periods. You can find more information about this in the Anthropic documentation: https://docs.anthropic.com/claude/reference/rate-limits
+
+If you have problems with the rate limits, we recommend contacting the Anthropic support directly to find a solution.
+
+After completing these steps, you have successfully set up Claude 3 Haiku in AutoGen 2 and can now use it.
