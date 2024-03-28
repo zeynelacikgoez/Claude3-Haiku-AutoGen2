@@ -1,6 +1,6 @@
 # Setting up Claude 3 Haiku in AutoGen 2
 
-In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 Step-by-step.
+In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 step-by-step.
 
 ## Prerequisites
 
