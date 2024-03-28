@@ -29,22 +29,27 @@ In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 step-by-st
    pip install litellm
    ```
 
-5. **Load the Anthropic API key into the environment (example api-key use your own)**:
+5. **Start AutoGenStudio**:
+   ```
+   pip install autogenstudio
+   ```   
+
+6. **Load the Anthropic API key into the environment (example api-key use your own)**:
    ```
    export ANTHROPIC_API_KEY="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"
    ```
 
-6. **Start AutoGenStudio**:
+7. **Start AutoGenStudio**:
    ```
    autogenstudio ui
    ```
 
-7. **Start LiteLLM in a separate terminal (with conda activate claude-autogen)**:
+8. **Start LiteLLM in a separate terminal (with conda activate claude-autogen)**:
    ```
    litellm --model claude-3-haiku-20240307
    ```
 
-8. **Configure the new model in AutoGenStudio**:
+9. **Configure the new model in AutoGenStudio**:
    - Browse 127.0.0.1:8081 (can be different, depending on what is displayed in the terminal for AutoGen)
    - Go to "Build" > "Models" > "New Model"
    - Enter the following values:
