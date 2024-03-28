@@ -79,6 +79,6 @@ Please note that when using the Claude-3-Haiku model, you may encounter rate lim
 
 These limits can be increased with the first payment and after waiting periods. You can find more information about this in the Anthropic documentation: https://docs.anthropic.com/claude/reference/rate-limits
 
-If you have problems with the rate limits, we recommend contacting the Anthropic support directly to find a solution.
+If you have problems with the rate limits, I recommend contacting the Anthropic support directly to find a solution.
 
 After completing these steps, you have successfully set up Claude 3 Haiku in AutoGen 2 and can now use it.
