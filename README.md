@@ -21,7 +21,7 @@ In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 Step-by-st
 
 3. **Install AutoGenStudio**:
    ```
-   pip install autogenstudio
+   pip install pyautogen
    ```
 
 4. **Install LiteLLM**:
