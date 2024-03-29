@@ -45,7 +45,7 @@ In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 step-by-st
    ```
    cd litellm/litellm
    ```
-   - Edit __init__.py
+   - Edit \_\_init\_\_.py
    - Find the line that says `modify_params = False`
    - Change it to `modify_params = True`
   
