@@ -41,7 +41,7 @@ In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 step-by-st
    ```
 
 
-7. **Navigate to the litellm subdirectory and modify the "__init__.py" file**:
+7. **Navigate to the litellm subdirectory and modify the "\_\_init\_\_.py" file**:
    ```
    cd litellm/litellm
    ```
