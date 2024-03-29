@@ -50,6 +50,7 @@ In this post, I'll show you how to set up Claude 3 Haiku in AutoGen 2 step-by-st
   
 8. **Install LiteLLM**
    ```
+   cd ..
    poetry install
    pip install -r requirements.txt
    ```
